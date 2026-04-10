@@ -22,6 +22,9 @@ Sebelum menjalankan bot ini, pastikan Anda telah menyiapkan hal-hal berikut:
 
 ## Persiapan Lingkungan (Setup)
 
+> [!NOTE]
+> Panduan lengkap dan detail langkah-demi-langkah untuk mendapatkan API Key dan Kredensial Google Sheets dapat dilihat di: **[cred.md](file:///Users/yogaaaaprtm23/bot-wa/cred.md)**
+
 ### 1. Konfigurasi Google Sheets
 
 1.  Buat Spreadsheet baru di Google Sheets.
